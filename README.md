@@ -12,7 +12,9 @@ salim@kali:/CVE-2018-16763$ python Single-Exploit.py https://www.target.com/
 For Use Mass Exploit:
 
 
-salim@kali:/CVE-2018-16763$ python Mass-Exploit.py https://www.target.com/
+salim@kali:/CVE-2018-16763$ python Mass-Exploit.py sites.txt
+
+sites.txt : list sites
 
 Contact : 
 
