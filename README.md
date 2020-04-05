@@ -2,6 +2,8 @@
 Exploit Script (Single-Mass)
 
 
+Fuel Cms Version: 1.4.2
+
 For Use Single Exploit :
 
 salim@kali:/CVE-2018-16763$ python Single-Exploit.py https://www.target.com/
